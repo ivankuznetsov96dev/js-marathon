@@ -10,4 +10,4 @@ function formattedPhone(phone) {
 }
 
 console.log(formattedPhone(phone));
-alert(`Your number is formatted: ${formattedPhone(phone)}`)
+alert(`Your number is formatted: ${formattedPhone(phone)}`);
